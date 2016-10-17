@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bhuvan</string>
+    <string name="title_activity_mapasset">Map</string>
+    <string name="title_activity_viewmap">Map</string>
+    <string name="title_activity_maps2">Map</string>
+    <string name="title_activity_maps_activitydynamic">Map</string>
+</resources>
